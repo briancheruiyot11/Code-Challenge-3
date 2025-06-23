@@ -16,7 +16,8 @@ This week’s code challenge project is to create a blog post application. It’
 ✅ Featured post displayed separately for a quick highlight
 
 # Website Overview
-![WhatsApp Image 2025-06-23 at 03 47 15_87503dfd](https://github.com/user-attachments/assets/9cae9ddb-c611-4d0a-a013-9922af63b0e8)
+![WhatsApp Image 2025-06-23 at 13 38 08_30b01240](https://github.com/user-attachments/assets/1ab3eaf9-92a0-44ce-906e-5e73985a5554)
+
 
 ## 🧰 Tech Stack
 - **Front-End:** HTML, CSS, JavaScript  
@@ -55,7 +56,9 @@ json-server --watch db.json
 4. See the featured post displayed at the top left.
 5. Browse all posts and jump to one by clicking the preview list on the right.
 
-![WhatsApp Image 2025-06-23 at 04 50 33_4d6a857c](https://github.com/user-attachments/assets/82ee9089-56d4-4775-ae67-4992945fefb5)
+![WhatsApp Image 2025-06-23 at 13 43 31_a2e0f7b6](https://github.com/user-attachments/assets/c219e77e-3a96-4577-96bf-8bfb061fbb5a)
+
+
 
 
 
