@@ -1,0 +1,67 @@
+{
+  "post": [
+    {
+      "title": "Car Community Blog!",
+      "description": "Welcome to Our Car Community Blog! Your one-stop blog for car lovers updates, reviews, and driving tips.",
+      "image": "https://images.unsplash.com/photo-1734940521894-5779e9c665c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Brian Cheruiyot",
+      "id": "1"
+    },
+    {
+      "title": "Mercedes-AMG GT",
+      "description": "My Mercedes-AMG GT is a high-performance sports car known for its powerful engine and dynamic driving experience. It is equipped with advanced features designed to enhance handling and performance, making it suitable for both spirited driving and everyday use",
+      "image": "https://images.unsplash.com/photo-1501066927591-314112b5888e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Lewis Hamilton",
+      "id": "3vz4Yji"
+    },
+    {
+      "title": " Porsche 911 GT2 RS",
+      "description": "This is an orange Porsche Motorsport division has developed the fastest and most powerful street-legal 911 of all time. Weighing 3,241 pounds with a full tank of fuel, the 700 horsepower twin-turbo flat-six engine propels the two-seater from 0 to 60 mph in 2.7 seconds.",
+      "image": "https://images.unsplash.com/photo-1713256618437-28ee8639a6df?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Lando Norris",
+      "id": "dyeCSvG"
+    },
+    {
+      "title": "Green Lamborghini Aventador SJV",
+      "description": "This green Lamborghini Aventador SVJ is a ferocious, track-hungry supercar built to thrill, with razor-sharp handling and jaw-dropping power.\n",
+      "image": "https://images.unsplash.com/photo-1709661074581-dea653ef117d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Max Verstappen",
+      "id": "Bk_J3Cq"
+    },
+    {
+      "title": "The Ferrari 348",
+      "description": "The Ferrari 348 is a true vintage icon. Its name hints at a 3.4-liter V8 powerhouse and a slick, rear-mounted transverse gearbox, making it a pure-blooded classic with style, soul, and serious swagger.",
+      "image": "https://images.unsplash.com/photo-1708063785745-3115240b66fa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Ludacris",
+      "id": "Lt3s1DX"
+    },
+    {
+      "title": "Nissan Skyline GT-R",
+      "description": "The Nissan Skyline GT-R R34, often hailed as \"Godzilla,\" is a legendary machine that blends raw power with iconic design.",
+      "image": "https://images.unsplash.com/photo-1632459250856-b9ad32a9804c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Tom Holland",
+      "id": "gbBOlCP"
+    },
+    {
+      "title": "Chevrolet Camaro ZL1",
+      "description": "This is a Chevrolet Camaro ZL1, a true American muscle car that's as much about raw power as it is about turning heads🏃‍♂️💨",
+      "image": "https://images.unsplash.com/photo-1620137731906-553551c9e5e6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Tyrese Gibson",
+      "id": "cmZmOxW"
+    },
+    {
+      "title": "Dodge Challenger SRT Demon",
+      "description": "The 2018 Dodge Challenger SRT Demon is basically a street legal rocket it guzzles fuel, eats tires for breakfast, and makes even the toughest gearheads grin like kids on a rollercoaster.😤",
+      "image": "https://images.unsplash.com/photo-1642197992607-c143dc5f3e92?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Jason Statham",
+      "id": "08K2gL-"
+    },
+    {
+      "title": "A 2024 BMW M4 Competition",
+      "description": "The M4 features aggressive front-end designs, bold grilles, and aerodynamic enhancements, contributing to its sporty aesthetic and improved handling. I love this car almost as much as I love my family👨‍👩‍👧‍👦. Almost.🤣",
+      "image": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "author": "Vin Diesel",
+      "id": "Kt_Kji6"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Blog App</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>My Car Blog Adventure</h1>
+  </header>
+
+  <div id="layout">
+    <!-- Left: Featured post + Add form -->
+    <div id="add-post-area">
+      <div id="single-post-view"></div>
+      <button id="add-post-btn">➕ Add New Post</button>
+    </div>
+
+    <!-- Center: Display posts -->
+    <div id="post-display-area">
+      <div id="post-display"></div>
+
+      <!-- Hidden Form -->
+      <form id="post-form" class="hidden">
+        <input type="hidden" id="post-id">
+        <input type="text" id="title" placeholder="Post title" required>
+        <textarea id="description" placeholder="Post description" required></textarea>
+        <input type="text" id="image" placeholder="Image URL">
+        <input type="text" id="author" placeholder="Author" required>
+        <button type="submit">💾 Save</button>
+        <button type="button" id="cancel-edit-btn">❌ Cancel</button>
+      </form>
+    </div>
+
+    <!-- Right: Post list -->
+    <div id="post-list">
+      <div id="post-list-title">All Posts</div>
+    </div>
+  </div>
+
+  <script src="./src/index.js"></script>
+</body>
+</html>
